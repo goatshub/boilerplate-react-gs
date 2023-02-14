@@ -6,7 +6,7 @@
   "scripts": {
     "glogin": "clasp login",
     "glogout": "clasp logout",
-    "gcreate": "clasp create --title 'React Locked-Drive' --rootDir ./apps-script",
+    "gcreate": "clasp create --title 'React Project' --rootDir ./apps-script",
     "gclone": "clasp clone \"<script ID>\" --rootDir ./apps-script",
     "gpull": "clasp pull",
     "gpush": "clasp push",
