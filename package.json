@@ -6,8 +6,8 @@
   "scripts": {
     "glogin": "clasp login",
     "glogout": "clasp logout",
-    "gcreate": "clasp create --title 'React Project' --rootDir ./apps-script",
-    "gclone": "clasp clone \"<script ID>\" --rootDir ./apps-script",
+    "gcreate": "clasp create --title 'React Locked-Drive' --rootDir ./apps-script",
+    "gclone": "clasp clone \"1kgbJuxdXsP-uMhRfkXcWnGRKEn0e8uJ9QVkX-ZEGSlBu0j5AB3ObruTP\" --rootDir ./apps-script",
     "gpull": "clasp pull",
     "gpush": "clasp push",
     "gstart": "clasp push --watch",
@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1"
   }
 }
