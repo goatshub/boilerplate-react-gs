@@ -2,7 +2,6 @@
   "name": "react-locked-drive",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "glogin": "clasp login",
     "glogout": "clasp logout",
